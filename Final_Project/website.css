@@ -1,0 +1,86 @@
+﻿body {
+    font-family: 'Grand Hotel', cursive;
+}
+
+.navbar {
+    background-color: #476A6F;
+    border: 3px dashed #CFDACB;
+    height: 64px;
+}
+
+.up {
+    text-decoration: none;
+    color: #CFDACB;
+    font-size: 30px;
+    line-height: 50px; /*Antes 39px, ficava o texto da navbar desalinhado na vertical*/
+    text-align: center;
+    height: 100%;
+}
+
+.nav-link {
+    height:100%;
+}
+
+.activee {
+    text-decoration: underline;
+    background-color: #AA6966;
+    color: #F5E0D8;
+    height: 65px;
+}
+
+.fa-bars {
+    color: #F5E0D8;
+}
+
+.basket-subtitle {
+    color: #47525E;
+    font-size: 26px;
+    line-height: 33px;
+    text-align: left;
+}
+
+.form-check-input:checked {
+    background-color: #AA6966;
+    border-color: #AA6966;
+}
+
+.campanha2 {
+    color: #47525E;
+    font-family: Grand Hotel;
+    font-size: 26px;
+    line-height: 33px;
+    text-align: center;
+}
+
+.campanha1 {
+    color: #47525E;
+    font-family: Grand Hotel;
+    font-size: 37px;
+    line-height: 48px;
+    text-align: center;
+}
+
+.titulo {
+    color: #47525E;
+    font-family: Grand Hotel;
+    font-size: 37px;
+    line-height: 48px;
+    width: 155px;
+    text-align: center;
+}
+
+.barra {
+    border-left: dotted 2px #d0d0d2;
+}
+
+.produtotxt {
+    color: #47525E;
+    font-family: Grand Hotel;
+    font-size: 26px;
+    line-height: 33px;
+    text-align: center;
+}
+
+.nav-link:hover {
+    color: #F5E0D8;
+}
