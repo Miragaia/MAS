@@ -1,2 +1,2 @@
 # MAS
-First Year, First Semester Class - Analysis and Modelling of Systems
+First Year - 1st Semester Class (Universidade de Aveiro) - Analysis and Modelling of Systems
